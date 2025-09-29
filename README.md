@@ -1,6 +1,6 @@
-# 🐍 Python Programming Labs
+# 🐍 Programming in Python Labs
 
-This repository contains my lab works for the **Python Programming** course.  
+This repository contains my lab works for the **Programming in Python** course.  
 
 
 
